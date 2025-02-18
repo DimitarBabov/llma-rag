@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AI Training Assistant - 60kW AMMPS</title>
+    <style>
+      .token { color: #333; }
+      .hidden { display: none; }
+      .figures-list img {
+        max-width: 300px;
+        display: block;
+        margin-top: 10px;
+      }
+    </style>
+</head>
+<body>
+    <h1>AI Training Assistant - 60kW AMMPS</h1>
+    <form method="POST" action="/">
+        <label for="query">Ask about the generator:</label><br>
+        <input type="text" id="query" name="query" size="80" />
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if user_query %}
+    <hr>
+    <h2>Query: {{ user_query }}</h2>
+    {% endif %}
+
+    <!-- If we're streaming, show a container for the incremental response -->
+    {% if streaming %}
+      <div id="response-container">
+        <h2>Response:</h2>
+        <div id="streamed-text"></div>
+      </div>
+
+      <div id="figures-container" class="hidden">
+        <h3>Matched Figures</h3>
+        <ul id="figures-list" class="figures-list"></ul>
+      </div>
+
+      <script>
+        // Build the SSE URL
+        const userQuery = "{{ user_query|safe }}";
+        const streamUrl = "/stream?user_query=" + encodeURIComponent(userQuery);
+
+        const streamedTextDiv = document.getElementById("streamed-text");
+        const figuresDiv = document.getElementById("figures-container");
+        const figuresList = document.getElementById("figures-list");
+
+        // Open an EventSource connection
+        const source = new EventSource(streamUrl);
+
+        // Listen for standard "message" events (the tokens)
+        source.onmessage = function(event) {
+          // Append the token text
+          // Each chunk might contain partial tokens or spaces
+          const token = event.data;
+          streamedTextDiv.textContent += token;
+        };
+
+        // Listen for "figures" event
+        source.addEventListener("figures", function(event) {
+          if (event.data === "none") {
+            console.log("No figures found.");
+          } else {
+            // event.data might look like "Fuel_System.png|Fuel System|0.80||SomeOther.png|Title|0.75"
+            const figsPayload = event.data.split("||");
+            figsPayload.forEach(item => {
+              const [filename, title, score] = item.split("|");
+              if (filename && title) {
+                // Create a list item with the figure
+                const li = document.createElement("li");
+                li.innerHTML = `
+                  <strong>${title}</strong> (score: ${score})<br>
+                  <img src="/static/Figures/${filename}" alt="${title}">
+                `;
+                figuresList.appendChild(li);
+              }
+            });
+            figuresDiv.classList.remove("hidden");
+          }
+
+          // Once figures are sent, we can close the SSE
+          source.close();
+        }, false);
+
+        // If there's an error or the connection closes unexpectedly
+        source.onerror = function(err) {
+          console.log("SSE connection error", err);
+          source.close();
+        };
+      </script>
+    {% else %}
+      <!-- If not streaming, maybe show a normal response or do nothing -->
+      {% if response %}
+        <hr>
+        <h2>LLM Response:</h2>
+        <p>{{ response }}</p>
+      {% endif %}
+      {% if matched_figs %}
+        <hr>
+        <h2>Matched Figures</h2>
+        <ul>
+          {% for fig in matched_figs %}
+            <li>
+              <strong>{{ fig.title }}</strong> (score: {{ fig.score }})<br>
+              <img src="{{ url_for('static', filename='Figures/' ~ fig.filename) }}" alt="{{ fig.title }}" style="max-width:300px;">
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endif %}
+</body>
+</html>

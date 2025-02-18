@@ -1,0 +1,85 @@
+# Ignore Figures folder
+Figures/
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Mistral model files
+mistral-7b-instruct*
+
+mistral-7b-instruct-v0.1.Q4_0.gguf
+mistral-7b-instruct-v0.1.Q6_K.gguf
+
+
+rag2/
+embeddings/
+# Ignore figures metadata files
+figures.json
+figure_texts.json
+
+# ========================
+# Standard Python .gitignore
+# ========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & Debugging files
+logs/
+*.log
+*.out
+*.err
+
+# MacOS & Linux system files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pip, Poetry, and dependency management
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# Ignore coverage reports
+.coverage
+coverage.xml
+*.cover
+*.cov
+*.lcov
+nosetests.xml
+test-results.xml
+
+# Ignore build & dist folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignore PyInstaller bundled files
+*.spec
+
+# Ignore local database & SQLite files
+*.db
+*.sqlite3
+
+# Ignore PyCharm project settings
+*.iml
+*.ipr
+*.iws
+
+TM 9-6115-753-10.pdf:Zone.Identifier
+training_manual_text.txt
