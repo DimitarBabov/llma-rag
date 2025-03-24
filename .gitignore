@@ -1,21 +1,51 @@
-# Ignore Figures folder
+# Ignore all PNG files anywhere in the project
+*.png
+
+# Ignore image directories
 Figures/
+static/
 
 # Ignore PDF files
 *.pdf
+*:Zone.Identifier
 
 # Ignore Mistral model files
 mistral-7b-instruct*
+*.gguf
 
-mistral-7b-instruct-v0.1.Q4_0.gguf
-mistral-7b-instruct-v0.1.Q6_K.gguf
-
-
+# Virtual environment
 rag2/
+venv/
+env/
+*.env
+*.venv
+
+# Generated data
 embeddings/
-# Ignore figures metadata files
 figures.json
 figure_texts.json
+training_manual_text.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
 
 # ========================
 # Standard Python .gitignore
@@ -26,12 +56,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
-venv/
-env/
-*.env
-*.venv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -63,12 +87,6 @@ coverage.xml
 nosetests.xml
 test-results.xml
 
-# Ignore build & dist folders
-build/
-dist/
-*.egg-info/
-.eggs/
-
 # Ignore PyInstaller bundled files
 *.spec
 
@@ -81,5 +99,4 @@ dist/
 *.ipr
 *.iws
 
-TM 9-6115-753-10.pdf:Zone.Identifier
-training_manual_text.txt
+TM 9-6115-753-10.pdf:Zone.Identifiertraining_manual_text.txt
