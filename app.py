@@ -133,7 +133,7 @@ def stream():
     # We'll define a generator function that yields SSE events
     def token_generator():
         # 2. Call LLaMA with streaming
-        stream_resp = model(prompt, max_tokens=256, stream=True)
+        stream_resp = model(prompt, max_tokens=256, stream=True, temperature=0.0)
         full_text = []
         
         # 3. For each token in the stream, yield an SSE "message" event

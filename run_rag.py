@@ -100,7 +100,7 @@ def query_llm_with_figures(query):
     )
     
     # 3. Call LLaMA for completion
-    response = model(prompt, max_tokens=256)
+    response = model(prompt, max_tokens=256, temperature=0.3)
     response_text = response["choices"][0]["text"].strip()
     
     print("\n📝 LLaMA Response:\n", response_text)
