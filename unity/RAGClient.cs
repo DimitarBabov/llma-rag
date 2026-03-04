@@ -8,7 +8,7 @@ using System.Text;
 
 public class RAGClient : MonoBehaviour
 {
-    [SerializeField] private string apiUrl = "http://localhost:5001/api";
+    [SerializeField] private string apiUrl = "http://192.168.4.74:5001/api";
     [SerializeField] private TMP_InputField queryInput;
     [SerializeField] private TextMeshProUGUI responseText;
     [SerializeField] private FigureManager figureManager;
