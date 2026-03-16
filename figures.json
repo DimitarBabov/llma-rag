@@ -1,0 +1,470 @@
+{
+    "page_27_Figure_1": {
+        "title": "Skid-Mounted 60 kW AMMPS Generator Set",
+        "filename": "Skid-Mounted_60_kW_AMMPS_Generator_Set.png"
+    },
+    "page_35_Figure_1": {
+        "title": "AMMPS 60 kW Generator Set with Doors Closed",
+        "filename": "AMMPS_60_kW_Generator_Set_with_Doors_Closed.png"
+    },
+    "page_36_Figure_2": {
+        "title": "Rear and Right-Side View with Doors Open",
+        "filename": "Rear_and_Right-Side_View_with_Doors_Open.png"
+    },
+    "page_37_Figure_3": {
+        "title": "Front and Left-Side View with Door Open",
+        "filename": "Front_and_Left-Side_View_with_Door_Open.png"
+    },
+    "page_38_Figure_4": {
+        "title": "Skid",
+        "filename": "Skid.png"
+    },
+    "page_39_Figure_5": {
+        "title": "Engine Components - Left Side",
+        "filename": "Engine_Components_-_Left_Side.png"
+    },
+    "page_40_Figure_6": {
+        "title": "Engine Components - Right Side",
+        "filename": "Engine_Components_-_Right_Side.png"
+    },
+    "page_41_Figure_7": {
+        "title": "Systems Components - Right Side",
+        "filename": "Systems_Components_-_Right_Side.png"
+    },
+    "page_42_Figure_8": {
+        "title": "Systems Components - Left Side",
+        "filename": "Systems_Components_-_Left_Side.png"
+    },
+    "page_43_Figure_9": {
+        "title": "24-VDC Electrical and AC Generator Components - Right Side",
+        "filename": "24-VDC_Electrical_and_AC_Generator_Components_-_Right_Side.png"
+    },
+    "page_44_Figure_10": {
+        "title": "Output Box Components - Right Side",
+        "filename": "Output_Box_Components_-_Right_Side.png"
+    },
+    "page_50_Figure_1": {
+        "title": "AMMPS Control Overview",
+        "filename": "AMMPS_Control_Overview.png"
+    },
+    "page_51_Figure_2": {
+        "title": "Engine Starting System",
+        "filename": "Engine_Starting_System.png"
+    },
+    "page_52_Figure_3": {
+        "title": "Fuel System",
+        "filename": "Fuel_System.png"
+    },
+    "page_53_Figure_4": {
+        "title": "Engine Cooling System",
+        "filename": "Engine_Cooling_System.png"
+    },
+    "page_54_Figure_5": {
+        "title": "Engine Lubrication System",
+        "filename": "Engine_Lubrication_System.png"
+    },
+    "page_55_Figure_6": {
+        "title": "Air Intake and Exhaust System",
+        "filename": "Air_Intake_and_Exhaust_System.png"
+    },
+    "page_57_Figure_7": {
+        "title": "Output Supply System",
+        "filename": "Output_Supply_System.png"
+    },
+    "page_61_Figure_1": {
+        "title": "Screen Navigation",
+        "filename": "Screen_Navigation.png"
+    },
+    "page_63_Figure_2": {
+        "title": "Generator Set DCS Control Panel",
+        "filename": "Generator_Set_DCS_Control_Panel.png"
+    },
+    "page_64_Figure_3": {
+        "title": "DCS Control Panel",
+        "filename": "DCS_Control_Panel.png"
+    },
+    "page_65_Figure_4": {
+        "title": "DEAD CRANK SWITCH",
+        "filename": "DEAD_CRANK_SWITCH.png"
+    },
+    "page_66_Figure_5": {
+        "title": "Engine Control Switch",
+        "filename": "Engine_Control_Switch.png"
+    },
+    "page_67_Figure_6": {
+        "title": "Main DC Circuit Breaker",
+        "filename": "Main_DC_Circuit_Breaker.png"
+    },
+    "page_68_Figure_7": {
+        "title": "Voltage Selection Board",
+        "filename": "Voltage_Selection_Board.png"
+    },
+    "page_69_Figure_8": {
+        "title": "Main Display Screen (Showing 3-Phase Configuration)",
+        "filename": "Main_Display_Screen_(Showing_3-Phase_Configuration).png"
+    },
+    "page_73_Figure_9": {
+        "title": "[Adjustments] Screen 1 - Select Parameter",
+        "filename": "Adjustments_Screen_1_-_Select_Parameter.png"
+    },
+    "page_74_Figure_10": {
+        "title": "[Adjustments] Screen 1 - Adjust",
+        "filename": "Adjustments_Screen_1_-_Adjust.png"
+    },
+    "page_75_Figure_11": {
+        "title": "[Adjustments] Screen 2 - Select Parameter",
+        "filename": "Adjustments_Screen_2_-_Select_Parameter.png"
+    },
+    "page_76_Figure_12": {
+        "title": "[Adjustments] Screen 2 - Adjust",
+        "filename": "Adjustments_Screen_2_-_Adjust.png"
+    },
+    "page_78_Figure_13": {
+        "title": "[Parallel Adj] Screen",
+        "filename": "Parallel_Adj_Screen.png"
+    },
+    "page_79_Figure_14": {
+        "title": "First [Maintenance] Screen",
+        "filename": "First_Maintenance_Screen.png"
+    },
+    "page_80_Figure_15": {
+        "title": "[Maintenance Items] Screen",
+        "filename": "Maintenance_Items_Screen.png"
+    },
+    "page_81_Figure_16": {
+        "title": "[Maintenance Actions] Screen",
+        "filename": "Maintenance_Actions_Screen.png"
+    },
+    "page_82_Figure_17": {
+        "title": "Generator Hour Meter",
+        "filename": "Generator_Hour_Meter.png"
+    },
+    "page_85_Figure_1": {
+        "title": "Screen Navigation",
+        "filename": "Screen_Navigation.png"
+    },
+    "page_86_Figure_2": {
+        "title": "Grounding Connections",
+        "filename": "Grounding_Connections.png"
+    },
+    "page_88_Figure_3": {
+        "title": "Install Ground Rod With Slide Hammer",
+        "filename": "Install_Ground_Rod_With_Slide_Hammer.png"
+    },
+    "page_89_Figure_4": {
+        "title": "Install Ground Rod With Sledge Hammer",
+        "filename": "Install_Ground_Rod_With_Sledge_Hammer.png"
+    },
+    "page_92_Figure_5": {
+        "title": "Auxiliary Fuel Supply Connections",
+        "filename": "Auxiliary_Fuel_Supply_Connections.png"
+    },
+    "page_93_Figure_6": {
+        "title": "Installation of Load and Ground Cables",
+        "filename": "Installation_of_Load_and_Ground_Cables.png"
+    },
+    "page_94_Figure_7": {
+        "title": "Ground and Output Cable Attachment Detail",
+        "filename": "Ground_and_Output_Cable_Attachment_Detail.png"
+    },
+    "page_96_Figure_8": {
+        "title": "Configure Voltage Selection Board",
+        "filename": "Configure_Voltage_Selection_Board.png"
+    },
+    "page_98_Figure_9": {
+        "title": "Main DC Circuit Breaker and DEAD CRANK SWITCH",
+        "filename": "Main_DC_Circuit_Breaker_and_DEAD_CRANK_SWITCH.png"
+    },
+    "page_99_Figure_10": {
+        "title": "DCS Panel",
+        "filename": "DCS_Panel.png"
+    },
+    "page_100_Figure_11": {
+        "title": "Main Screen Message 1",
+        "filename": "Main_Screen_Message_1.png"
+    },
+    "page_101_Figure_12": {
+        "title": "Main Screen Message 2",
+        "filename": "Main_Screen_Message_2.png"
+    },
+    "page_102_Figure_13": {
+        "title": "Operator Main Screen",
+        "filename": "Operator_Main_Screen.png"
+    },
+    "page_103_Figure_14": {
+        "title": "Main Screen Showing Adjustments - Location",
+        "filename": "Main_Screen_Showing_Adjustments_-_Location.png"
+    },
+    "page_104_Figure_15": {
+        "title": "[Adjustments] Screen 1 - Select Option",
+        "filename": "Adjustments_Screen_1_-_Select_Option.png"
+    },
+    "page_105_Figure_16": {
+        "title": "[Adjustments] Screen 1 - Set Configuration",
+        "filename": "Adjustments_Screen_1_-_Set_Configuration.png"
+    },
+    "page_106_Figure_17": {
+        "title": "[Adjustments] Screen 2 - Select Parameter",
+        "filename": "Adjustments_Screen_2_-_Select_Parameter.png"
+    },
+    "page_107_Figure_18": {
+        "title": "[Adjustments] Screen 2 - Set Configuration",
+        "filename": "Adjustments_Screen_2_-_Set_Configuration.png"
+    },
+    "page_108_Figure_19": {
+        "title": "Main Control Screen Status Indicators 120/208 V 3 Phase",
+        "filename": "Main_Control_Screen_Status_Indicators_120208_V_3_Phase.png"
+    },
+    "page_110_Figure_20": {
+        "title": "Select Maintenance Screen",
+        "filename": "Select_Maintenance_Screen.png"
+    },
+    "page_111_Figure_21": {
+        "title": "First Maintenance Screen",
+        "filename": "First_Maintenance_Screen.png"
+    },
+    "page_112_Figure_22": {
+        "title": "Maintenance Item Display",
+        "filename": "Maintenance_Item_Display.png"
+    },
+    "page_113_Figure_23": {
+        "title": "Next Items Display",
+        "filename": "Next_Items_Display.png"
+    },
+    "page_114_Figure_24": {
+        "title": "Operator Display Panel - Remote Connection",
+        "filename": "Operator_Display_Panel_-_Remote_Connection.png"
+    },
+    "page_115_Figure_25": {
+        "title": "Remote PC - Connection",
+        "filename": "Remote_PC_-_Connection.png"
+    },
+    "page_116_Figure_26": {
+        "title": "Remote PC Display",
+        "filename": "Remote_PC_Display.png"
+    },
+    "page_118_Figure_27": {
+        "title": "Stopping Procedure",
+        "filename": "Stopping_Procedure.png"
+    },
+    "page_119_Figure_28": {
+        "title": "Decal and Instructions Plates, Right-Side - Model 1070/1071",
+        "filename": "Decal_and_Instructions_Plates,_Right-Side_-_Model_10701071.png"
+    },
+    "page_120_Figure_29": {
+        "title": "Decal and Instructions Plates, Rear - Model 1070/1071",
+        "filename": "Decal_and_Instructions_Plates,_Rear_-_Model_10701071.png"
+    },
+    "page_121_Figure_30": {
+        "title": "Decal and Instructions Plates, Top and Inside - Model 1070/1071",
+        "filename": "Decal_and_Instructions_Plates,_Top_and_Inside_-_Model_10701071.png"
+    },
+    "page_122_Figure_31": {
+        "title": "Decal and Instructions Plates, Front - Model 1070/1071",
+        "filename": "Decal_and_Instructions_Plates,_Front_-_Model_10701071.png"
+    },
+    "page_123_Figure_32": {
+        "title": "Decal and Instructions Plates, Left-Side - Model 1070/1071",
+        "filename": "Decal_and_Instructions_Plates,_Left-Side_-_Model_10701071.png"
+    },
+    "page_124_Figure_33": {
+        "title": "Plate, Identification - Model 1070",
+        "filename": "Plate,_Identification_-_Model_1070.png"
+    },
+    "page_125_Figure_35": {
+        "title": "Label, Lifting and Tie Down - Model 1070/1071",
+        "filename": "Label,_Lifting_and_Tie_Down_-_Model_10701071.png"
+    },
+    "page_126_Figure_37": {
+        "title": "Plate, IUID Identification - Model 1071",
+        "filename": "Plate,_IUID_Identification_-_Model_1071.png"
+    },
+    "page_127_Figure_39": {
+        "title": "Name Plate, Identification - Model 1071",
+        "filename": "Name_Plate,_Identification_-_Model_1071.png"
+    },
+    "page_128_Figure_41": {
+        "title": "Plate, Set Rating - Model 1070",
+        "filename": "Plate,_Set_Rating_-_Model_1070.png"
+    },
+    "page_129_Figure_43": {
+        "title": "Label, Fuel - Model 1070/1071",
+        "filename": "Label,_Fuel_-_Model_10701071.png"
+    },
+    "page_130_Figure_46": {
+        "title": "Label, Fuel Diagram - Model 1070/1071",
+        "filename": "Label,_Fuel_Diagram_-_Model_10701071.png"
+    },
+    "page_131_Figure_47": {
+        "title": "Label, Operating Instructions - Model 1070/1071",
+        "filename": "Label,_Operating_Instructions_-_Model_10701071.png"
+    },
+    "page_132_Figure_49": {
+        "title": "Label, Diagram, Wiring - Model 1070/1071",
+        "filename": "Label,_Diagram,_Wiring_-_Model_10701071.png"
+    },
+    "page_133_Figure_50": {
+        "title": "Plate, Battery Connection - Model 1070/1071",
+        "filename": "Plate,_Battery_Connection_-_Model_10701071.png"
+    },
+    "page_134_Figure_52": {
+        "title": "Label, Grounding Stud - Model 1070/1071",
+        "filename": "Label,_Grounding_Stud_-_Model_10701071.png"
+    },
+    "page_135_Figure_53": {
+        "title": "Label, Schematic, Wiring - Model 1070/1071",
+        "filename": "Label,_Schematic,_Wiring_-_Model_10701071.png"
+    },
+    "page_136_Figure_55": {
+        "title": "Label, Dead Crank - Model 1070/1071",
+        "filename": "Label,_Dead_Crank_-_Model_10701071.png"
+    },
+    "page_141_Figure_1": {
+        "title": "Storage Box and Cable - Location",
+        "filename": "Storage_Box_and_Cable_-_Location.png"
+    },
+    "page_143_Figure_3": {
+        "title": "Switch Box Paralleling Receptacle",
+        "filename": "Switch_Box_Paralleling_Receptacle.png"
+    },
+    "page_144_Figure_4": {
+        "title": "Main Display Screen - Parallel Mode",
+        "filename": "Main_Display_Screen_-_Parallel_Mode.png"
+    },
+    "page_149_Figure_5": {
+        "title": "Parallel Adjustment Screen, A",
+        "filename": "Parallel_Adjustment_Screen,_A.png"
+    },
+    "page_151_Figure_6": {
+        "title": "Parallel Adjustment Screen, B",
+        "filename": "Parallel_Adjustment_Screen,_B.png"
+    },
+    "page_153_Figure_7": {
+        "title": "Parallel Adjustment Screen, C",
+        "filename": "Parallel_Adjustment_Screen,_C.png"
+    },
+    "page_154_Figure_8": {
+        "title": "Parallel Adjustment Screen, D",
+        "filename": "Parallel_Adjustment_Screen,_D.png"
+    },
+    "page_156_Figure_9": {
+        "title": "Parallel Adjustment Screen, E",
+        "filename": "Parallel_Adjustment_Screen,_E.png"
+    },
+    "page_157_Figure_10": {
+        "title": "Parallel Adjustment Screen, F",
+        "filename": "Parallel_Adjustment_Screen,_F.png"
+    },
+    "page_158_Figure_11": {
+        "title": "Soft Unload Key",
+        "filename": "Soft_Unload_Key.png"
+    },
+    "page_159_Figure_12": {
+        "title": "DCS Panel, Remove From Parallel",
+        "filename": "DCS_Panel,_Remove_From_Parallel.png"
+    },
+    "page_165_Figure_1": {
+        "title": "DCS Panel",
+        "filename": "DCS_Panel.png"
+    },
+    "page_167_Figure_2": {
+        "title": "GFCI Convenience Receptacle",
+        "filename": "GFCI_Convenience_Receptacle.png"
+    },
+    "page_170_Figure_1": {
+        "title": "NATO Slave Receptacle",
+        "filename": "NATO_Slave_Receptacle.png"
+    },
+    "page_171_Figure_2": {
+        "title": "DCS Panel",
+        "filename": "DCS_Panel.png"
+    },
+    "page_214_Figure_1": {
+        "title": "Rear View",
+        "filename": "Rear_View.png"
+    },
+    "page_215_Figure_2": {
+        "title": "Right-Side View",
+        "filename": "Right-Side_View.png"
+    },
+    "page_216_Figure_3": {
+        "title": "Front View",
+        "filename": "Front_View.png"
+    },
+    "page_217_Figure_4": {
+        "title": "Left-Side View",
+        "filename": "Left-Side_View.png"
+    },
+    "page_237_Figure_1": {
+        "title": "Air Cleaner - Location",
+        "filename": "Air_Cleaner_-_Location.png"
+    },
+    "page_238_Figure_2": {
+        "title": "Air Cleaner/Air Filter Restriction Indicator and Dust Ejector Valve",
+        "filename": "Air_CleanerAir_Filter_Restriction_Indicator_and_Dust_Ejector_Valve.png"
+    },
+    "page_239_Figure_3": {
+        "title": "Air Cleaner Assembly",
+        "filename": "Air_Cleaner_Assembly.png"
+    },
+    "page_242_Figure_1": {
+        "title": "Coolant Overflow Bottle - Location",
+        "filename": "Coolant_Overflow_Bottle_-_Location.png"
+    },
+    "page_243_Figure_2": {
+        "title": "Coolant Recovery Assembly",
+        "filename": "Coolant_Recovery_Assembly.png"
+    },
+    "page_244_Figure_3": {
+        "title": "Coolant Level",
+        "filename": "Coolant_Level.png"
+    },
+    "page_245_Figure_4": {
+        "title": "Radiator Fill - Exterior",
+        "filename": "Radiator_Fill_-_Exterior.png"
+    },
+    "page_246_Figure_5": {
+        "title": "Radiator Fill - Interior",
+        "filename": "Radiator_Fill_-_Interior.png"
+    },
+    "page_247_Figure_6": {
+        "title": "Pressure Relief Valve",
+        "filename": "Pressure_Relief_Valve.png"
+    },
+    "page_249_Figure_7": {
+        "title": "Cooling System Hoses, Interconnecting Tubes, and Clamps - Left Side",
+        "filename": "Cooling_System_Hoses,_Interconnecting_Tubes,_and_Clamps_-_Left_Side.png"
+    },
+    "page_250_Figure_8": {
+        "title": "Cooling System Hoses, Interconnecting Tubes, and Clamps - Right Side",
+        "filename": "Cooling_System_Hoses,_Interconnecting_Tubes,_and_Clamps_-_Right_Side.png"
+    },
+    "page_252_Figure_1": {
+        "title": "Fuel Fill - Location",
+        "filename": "Fuel_Fill_-_Location.png"
+    },
+    "page_253_Figure_2": {
+        "title": "Fuel Filler",
+        "filename": "Fuel_Filler.png"
+    },
+    "page_254_Figure_3": {
+        "title": "Fuel Filter/Water Separator",
+        "filename": "Fuel_FilterWater_Separator.png"
+    },
+    "page_258_Figure_1": {
+        "title": "Oil Service Detail - Right Side",
+        "filename": "Oil_Service_Detail_-_Right_Side.png"
+    },
+    "page_261_Figure_2": {
+        "title": "Oil Service Detail - Left Side",
+        "filename": "Oil_Service_Detail_-_Left_Side.png"
+    },
+    "page_268_Figure_1": {
+        "title": "Basic Issue Items (BII) (Sheet 1 of 2)",
+        "filename": "Basic_Issue_Items_(BII)_(Sheet_1_of_2).png"
+    },
+    "page_269_Figure_1": {
+        "title": "Basic Issue Items (BII) (Sheet 2 of 2)",
+        "filename": "Basic_Issue_Items_(BII)_(Sheet_2_of_2).png"
+    }
+}

@@ -1,9 +1,17 @@
-flask==3.0.2
-llama-cpp-python==0.2.56
-langchain-community==0.0.27
-sentence-transformers==2.5.1
+flask==3.1.0
+llama-cpp-python==0.3.7
+langchain==0.3.18
+langchain-community==0.3.17
+langchain-core==0.3.35
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.6
+sentence-transformers==3.4.1
 numpy==1.26.4
-Pillow==10.2.0
-pypdf==4.0.2
-torch==2.2.1
-faiss-cpu==1.7.4 
+Pillow==11.0.0
+huggingface-hub==0.28.1
+faiss-gpu-cu12==1.10.0
+
+# PyTorch with CUDA 12.1 -- install separately:
+#   pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+# Or for CPU-only:
+#   pip install torch==2.5.1

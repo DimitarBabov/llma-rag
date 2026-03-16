@@ -1,0 +1,262 @@
+{
+    "page_50_Figure_1": {
+        "title": "AMMPS Control Overview",
+        "text": "| Operator Panel\n\n(Gov Status) & A\n\nGov\n\ni\n\\\n1 \\\n1 1 1\n1 I = \u2014(Data)\u2014-\u2014 __ Remote. \u2014\u2014>|\n\\ 25! displa [Communications | Field PC\n| |_| [Switches/Lights/Buttons) ag ePiey (Remde) |= \u2018>|\n| { \u00a9 2 i\" SofiKeys_ 1 |\n1 1 i} 1\n! 1 i} 1\n1 = _-! 1\n1 1\n1 9 1\n1 1\n\\ 3 1\n| Contr | \u00a2g_Contoeater I\n1 Heater 1\n| _ watery Curent Sense 1\nBattery Battery Voltage Sense | H\n1 1\n1 v 1\nH [Main Controller Board] ' Parallelin\n! g J <+\u2014 Paralteling\u2014p Set 3\nGenset | \u00a2\u2014\u20141____ Genset Aue \u2014\u2014\u2014_> |\n/Aux Panel ' General\n\nGenset\n|<+\u2014\u2014 General \u2014\u2014 | contractor\n\n<< Alternator \u2014p(altemator)"
+    },
+    "page_51_Figure_2": {
+        "title": "Engine Starting System",
+        "text": "DEAD\n\nCRANK\nSWITCH\n\nBATTERY\n(2)\n\nry\n\nEMERGENCY CRANK\nSTOP DISCONNECT, BATTERY\nSWITCH SWITCH CHARGING\nJ J AMMETER\nDC CONTROL\nPOWER DISCONNECT]\nCIRCUIT\nBREAKER\nMAGNETIC\n| PICKUP\nENGINE RANKIN\nCONTROL oe\nSWITCH\nSTARTER\nSOLENOID ENGINE BATTERY.\nSTARTER PO -\u2014\u2014>_ CHARGING\nMOTOR ALTERNATER"
+    },
+    "page_52_Figure_3": {
+        "title": "Fuel System",
+        "text": "FUEL LEVEL\nSENSOR\n\nFUEL -\u2014_\nTANK\n\nAUXILIARY I\u00a2\u2014\u2014 EXTERNAL\nFUEL\nSUPPLY\n\nFUEL\n\nFUEL FILTER\n\nPUMP.\n\nTRANSFER\nPUMP\n\nFUEL VENT\nLINE\n\nFUEL\nFILTER\n\n|\n\nFUEL FILTER/\nWATER\nSEPARATOR\n\nINJECTION\nPUMP. INJECTORS COMBUSTION\n\n(1) (4) CHAMBER"
+    },
+    "page_53_Figure_4": {
+        "title": "Engine Cooling System",
+        "text": "Ait\n\nFANS\nRADIATOR THERMOSTAT\nCOOLANT\n\nPUMP ENGINE\n\nCOOLANT\nTEMP\nINDICATOR/\nSENSOR\n\nWINTERIZATION\nKIT\n\nCONTROL\nPANEL\nLOGIC\n\nBOARD"
+    },
+    "page_54_Figure_5": {
+        "title": "Engine Lubrication System",
+        "text": "OIL\nSUMP\n\nPUMP = [}-\u2014>\n\nOIL\nCOOLER\n\nFILTER\n\n\u2014\n\nENGINE\n\nMOVING\nPARTS\n\nOIL\nPRESSURE\n\nSENDER"
+    },
+    "page_55_Figure_6": {
+        "title": "Air Intake and Exhaust System",
+        "text": "AIR\n\nWa)\n\nAIR\nCLEANER\nELEMENT\n\nRESTRICTION\nINDICATOR\n\nINTAKE\n\nMANIFOLD COMBUSTION\n\nCHAMBER\n\nTURBO\nCHARGER\n\nEXHAUST\nMANIFOLD\n\nMUFFLER\n\nGRID HEATER | \u2014\u2014\u2014\u2014_-\n\nENGINE\n\nCONTROLS"
+    },
+    "page_57_Figure_7": {
+        "title": "Output Supply System",
+        "text": "AC AUTOMATIC.\nGENERATOR VOLTAGE\n\nREGULATOR\n\nAC CIRCUIT we\nINTERRUPT\nSWITCH\nVOLTAGE\nSELECTION\nBOARD\nAC CIRCUIT\nINTERRUPT y\nRELAY | yl\nCONTACTOR\nAM/VM\nBUS\nREPORTING\nVOLTAGE PROGRAMMING\nLOAD OUTPUT\nTERMINAL BOARD\nLOAD LOAD\n\n-\u2014\u2014\u2014\u2014> TERMINAL\nL2\n\nTERMINAL |}4\u2014\n4\n\nLOAD LOAD\n\u2014\u2014\u2014> | TERMINAL TERMINAL\n\nL3 LN\n\nGND\n\nTERMINAL"
+    },
+    "page_61_Figure_1": {
+        "title": "Screen Navigation",
+        "text": "Main\n\nExit\u2019 Screen\n(Soft key)\nNo Activity (CROMORCXO)\n\n(5 minutes)\nAdjustments\n(Soft key)\nEXIT NoActivity\n(Soft key) (2 minutes)\n\nAdjustments jaca oa Adjustment\nze Screen 2\n\nScreen 1 (2 seconds)\n(OROMCHORO)\n\n\u00a9OO@\u00ae\u00ae\n\nEXIT No Activity\n(Soft key) (2 minutes)\n\nParallel\nAdjustment\nScreen\n\n(ORS MOMOCKO)\n\nNo Activity\n\n(S minutes)\n\nMaintenance\n(Soft key)\n\nMaintenance\n\nScreen\n(OROROROKO)"
+    },
+    "page_64_Figure_3": {
+        "title": "DCS Control Panel",
+        "text": "\u00b0 \\cusaTosTor_] O\n\nPANEL, ,)\nLicHTs\nSS fo\n9 on EMERGENCY STOP, REMOTE\ncessor Of\" ? Q\n\nie} Fault\n8\u2014\u2014 > ovr, Reser SS\nShot mae PARALLEL\n\u00b0)\n\n=] pe O FR] (0)\nge &\n\n\u00b0"
+    },
+    "page_66_Figure_5": {
+        "title": "Engine Control Switch",
+        "text": "OFF\n\nO\n\nPRIME & RUN\nAUX FUEL"
+    },
+    "page_69_Figure_8": {
+        "title": "Main Display Screen (Showing 3-Phase Configuration)",
+        "text": "\\28 vac\n\n120 120 119Va\n\n220}\n\nal\n\n\u2018Genset Current\n\nLy 2 is ig\n\n120 118 118Aaq|\n\nAdjustments\n\nAbout\n\nMaintenance\n\nO\n\n\u00a9"
+    },
+    "page_73_Figure_9": {
+        "title": "[Adjustments] Screen 1 - Select Parameter",
+        "text": "99,999.9\nHours\n\nGenset Mode: Ready To Crank 2008-09-30)\nConfiguration: 60 kW, 3 Phase/ 120/208 V/60Hz 23:59:59\n\u2014\u2014 -/|\nContactor|\nClosed\n\nVoltage Backlight Units Real Time Clock\n\nHigh \u00b0F, PSI 2008-09-30\n23:59:59\n\n\u2018Winterization\n\nkit Test Select Tip:\n\nPress [Previous] or [Next]\n\nto move between items,\n[Select] to select highlighted item,\nor [Exit] to return to main screen.\n\nStart Test\n\nNext > Select Exit"
+    },
+    "page_74_Figure_10": {
+        "title": "[Adjustments] Screen 1 - Adjust",
+        "text": "5\n\n99,999.9\nHours 6\n2008-09-30\n23:59:59\n\n23:59:59\n\n\u00a5\n\nWinterization Adjust Tip:\n\nPress [+] or [-] to change value, 8\n[Accept] to accept new value, [Cancel] to\ncancel changes and revert to old value,\nor [Exit] to return to main screen.\n\nStart Test\n\na = Accept Exit\n\n(dO oO oO g.\u00b0\n\n10"
+    },
+    "page_75_Figure_11": {
+        "title": "[Adjustments] Screen 2 - Select Parameter",
+        "text": "99,999.9\n\niGen:\\et Mode: Ready To Crank 2008-09-30\nConfi\\juration: 60 kW, 3 Phase, 120/208 V, 60Hz| 23:59:59\n\nContac \\>r] Gov/AVR:\n\nSelect Tip:\nPress [Previous] or [Next]\n\nto move between items, [Select] to\nto select highlighted item,\n\nor [Exit] to return to main screen.\n\nParallel Adj\n\n<Previous Next\u00bb Select Exit"
+    },
+    "page_76_Figure_12": {
+        "title": "[Adjustments] Screen 2 - Adjust",
+        "text": "14\n\n: Adjust Tip: gee\nBunning Mae Press [+] or [-] to change value,\n\n[Accept] to accept new value, [Cancel] to\ncancel changes and revert to old value,\nor [Exit] to return to main screen.\n\n00051.6"
+    },
+    "page_78_Figure_13": {
+        "title": "[Parallel Adj] Screen",
+        "text": "1 2 3 4 5\n99,999.9\nHours\nGenset Mode: Running 2008-09-30)\n23:59:59\n\nConfiguratior\u00a530 kW, [3 Phase ]120/20F/V, 6OHz\n\nContactor KW_ | KVAR | KVAR | Reset | Reset,\nOpen Offset | Gain | Offset | Gains | Offsets\n+0.00 | 1.00 | +0.00} Reset] Reset\n|Switchbox\n40 Open\n~ | ashoa kw Select Tip:\n9 vot | 0.0 Press [Previous] or [Next tl\n\u2014\u2014 to move between items,\n[Battleshori idee aa [Select] to select highlighted item,\n\nInactive\n\nGenset Adj\n\n= Previous\n\nor [Exit] to return to main screen.\n\nExit\n\nSelect\n\nNext >\n\ns\n\n\u201cOo"
+    },
+    "page_79_Figure_14": {
+        "title": "First [Maintenance] Screen",
+        "text": "Active\nWarnings | 36t\\1: Active Maintenance Item\n\nSwitchbo:\nOpen"
+    },
+    "page_80_Figure_15": {
+        "title": "[Maintenance Items] Screen",
+        "text": "|Genset Mode: Ready\nConfiguration: 60 kW, 3. Phase, 120/208 V, GOHz\n\nTip: Press [Maint Actions] to dismiss, defer, or\ncomplete this maintenance item.\n\nInactive\n\nFaults Previous Next Maint Actions Exit\n\n7 6"
+    },
+    "page_81_Figure_16": {
+        "title": "[Maintenance Actions] Screen",
+        "text": "Gense\\ Mode: Ready\nConfig\\\\ration: 60 kW, 3 Phase, 120/208 V, 60Hz\n\n11:23:22\n\nInactive\n\nMaintenance\n\n[Dismiss]\n[Defer]\n\n[Cancel]\n[Exit]\n\n151\n\n2008-12-31-23:59:59\n\nFirst change engine oil and filter\n\nTip: Select from the following actions:\n\nPermanently dismiss the maintenance item.\nReschedule the maintenance item for later.\n{Completed} Maintenance item has been performed.\n\nRetum to the maintenance items list.\nReturn to the main screen.\n\nDismiss Defer, Completed Cancel Exit\noO\\Ga\\a Or\n3 2"
+    },
+    "page_82_Figure_17": {
+        "title": "Generator Hour Meter",
+        "text": "lobbs\nQUARTZ\n[ojo Torr)\n\n10\n\n'\nO} fal"
+    },
+    "page_85_Figure_1": {
+        "title": "Screen Navigation",
+        "text": "Main\n\nExit\u2019 Screen\n(Soft key)\nNo Activity (CROMORCXO)\n\n(5 minutes)\nAdjustments\n(Soft key)\nEXIT NoActivity\n(Soft key) (2 minutes)\n\nAdjustments jaca oa Adjustment\nze Screen 2\n\nScreen 1 (2 seconds)\n(OROMCHORO)\n\n\u00a9OO@\u00ae\u00ae\n\nEXIT No Activity\n(Soft key) (2 minutes)\n\nParallel\nAdjustment\nScreen\n\n(ORS MOMOCKO)\n\nNo Activity\n\n(S minutes)\n\nMaintenance\n(Soft key)\n\nMaintenance\n\nScreen\n(OROROROKO)"
+    },
+    "page_98_Figure_9": {
+        "title": "Main DC Circuit Breaker and DEAD CRANK SWITCH",
+        "text": "Inside right-side door\nInside left-side door"
+    },
+    "page_99_Figure_10": {
+        "title": "DCS Panel",
+        "text": "fe a)\n\nie} \u00b0\nPPS\nCo}} Ko) fe)\n| | aw,"
+    },
+    "page_100_Figure_11": {
+        "title": "Main Screen Message 1",
+        "text": "12.345.6\nHours\n\nGenset Mode: Ready 2008-12-31\nConfiguration: 60 kW, 3 Phase, 120/208V, 60 Hz 23:59:59\n\nGenset Voltage L-L Bus Voltage L-L Genset Current\nL1-L2 L2-L3 L3-L1 L1-L2 L2-L3 L3-L1 u1 L2 L3"
+    },
+    "page_101_Figure_12": {
+        "title": "Main Screen Message 2",
+        "text": "Genset Mode: Delay to Crank - Wti\nConfiguration: Not Ready to Crank.\n\n12.345.6\n\nGenset Voltage LL\n\nBus Voltage L-L\nLIL2 L213 L3Lt\n\nL112 L243 L3-Lt\n\n\u2018Genset Current\n2 13\n\nAdjustments\n\nAbout\n\nMaintenance"
+    },
+    "page_102_Figure_13": {
+        "title": "Operator Main Screen",
+        "text": "12.345.6\nHours\nGenset Mode: Ready \u00a5> Crank 2008-12-31\nConfiguration: 60 kW, 3 Phase, 120/208 V, 60 Hz | 23:59:59\nPower] Freq | Fuel | Battery | Battery] Ol | Coolant\nContactor} \u00a2\u00a2 0 66 106} 40 +80) 120 240}\nnae <\n< <a} oH\niSwitchbox| i\noa o) sil | ol sol sal ot\u00a2 | 100\nO.0KW | ---He] 55% | 24Vde | S5Adc] OPS! | 1146\nGenset Vollage LL Bus Volage LL Gensel Curent\nMode L1L2 L243: LO-L1 L1-L2 12-13 L3-L1 u 2 3\nUnit \u2014 |} 250 25 2008f\n[Battleshor!\nInactive | U\u00ab Ue Us ole Ue Ug lg Ug Ue\nooo vac} 140 0 0 vacl 0 0 0 Aac|\nLN LL Adjustments About = \u2014 Maintenance\n\nfo |\n\nIO\n\noa Oo \u00a9)"
+    },
+    "page_103_Figure_14": {
+        "title": "Main Screen Showing Adjustments - Location",
+        "text": "12.345.6\nHours.\n\nGenset Mile: Ready To Crank\n\nrola | sola] ota\n\nOVde | OAdc| OPSI| 118F\nBus Vollage L-L \u201cGenset Current\nL412 L213 L3-Lt ui is\n\n208"
+    },
+    "page_104_Figure_15": {
+        "title": "[Adjustments] Screen 1 - Select Option",
+        "text": "iGenset Mode: Ready To Crank\n\n99,999.9\nHours\n\n}2008-09-30\nConfiguration: 60 kW, 3. Phase, 120/208 V, 6O0Hz] 23:59:59\n\n\\\\ontactor} Voltage | Backlight Units Real Time\nClock\nHigh \u00b0F, PSI | 2009-09-30\n23:59:59\nWinterization Select Tip:\nKit Test Press [Previous] or [Next]\n\nto\n\n[Select] to select highlighted item,\nor [Exit] to return to main screen.\n\nmove between items,"
+    },
+    "page_105_Figure_16": {
+        "title": "[Adjustments] Screen 1 - Set Configuration",
+        "text": "99,999.9\nHours.\n\n|Genset Mode: Ready To Crank 2008-09-30)\nConfiguration: 60 kW, 3 Phase, 120/208 V, 60Hz] 23:59:59\n\nContactor\nClosed\n\nVoltage\n\nBacklight Units Real Time\n\nClock\n2009-09-30\n23:59:59\n\nHigh F, PSI\n\n|Switchbox|\nClosed\n\nVac\n\nWinterization\nKit Test\n\nAdjust Tip:\nPress [+] or [-] to change value,\n[Accept] to accept new value, [Cancel] to\ncancel changes and revert to old value,\n\nor [Exit] to return to main screen\n\nStart Test\n\nance! - + Accept Exit\nr\n\n0) fh Ok Of."
+    },
+    "page_106_Figure_17": {
+        "title": "[Adjustments] Screen 2 - Select Parameter",
+        "text": "99,999.9\n\niGen:\\et Mode: Ready To Crank 2008-09-30\nConfi\\juration: 60 kW, 3 Phase, 120/208 V, 60Hz| 23:59:59\n\nContac \\>r] Gov/AVR:\n\nSelect Tip:\nPress [Previous] or [Next]\n\nto move between items, [Select] to\nto select highlighted item,\n\nor [Exit] to return to main screen.\n\nParallel Adj\n\n<Previous Next\u00bb Select Exit"
+    },
+    "page_107_Figure_18": {
+        "title": "[Adjustments] Screen 2 - Set Configuration",
+        "text": "99,999.9\n\niGenset Mode: Ready To Crank\nConfiguration: 60 kW, 3 Phase, 120/208 V, 60Hz\n\nGov/AVR\nGain Reset\n\nAdjust Tip:\nPress [+] or [-] to change value,\n[Accept] to accept new value, [Cancel] to\ncancel changes and revert to old value,\nor [Exit] to return to main screen\n\nRunning Time|\n\nBattleshort}\n\n00051.6\n\\ Inactive"
+    },
+    "page_108_Figure_19": {
+        "title": "Main Control Screen Status Indicators 120/208 V 3 Phase",
+        "text": "Fuel Lev/i Low '99,999,9\nWarning 143: Pre-Low/ Oil Pre/ssure Hours\n|Genset Mode: Runnir/3 2008-09-/ 0\nConfiguration: 60 kWJ 3Phasj2, 120/2/30 V, B)Hz 23:59:6/)\n\nBattleshort}\nInactive\n\n208 208 _207Vac.\nL-N< LL Unload Adjustments Aux Disable Maintenance}"
+    },
+    "page_110_Figure_20": {
+        "title": "Select Maintenance Screen",
+        "text": "99,999.9\n\nWarning 3661: Active Maintenance Item\n\nHours\n\nGenset Mode: Running\nConfiguration: 60 kW, 3Phase, 120 V, 60Hz\n\nPower | Freq\n66 oon\n<\nSwitchbox\nOpened | \u00a9 sal\ns2aKw | cote\n\nGenset Voltage L-N Bus Voltage L-N\nLIN L2.N L3-N LIN L2N L3-N\n\nMode\n\nI< |< <<\n\n208 _207Vac 208\nAdjustments __ About\n\n215] 207) 4 [l< [l<\n\nGenset Current\nuw 13\n\nol\n201201 200 Aac\n\nMaintenance\n\nome\n\n\u00a9"
+    },
+    "page_111_Figure_21": {
+        "title": "First Maintenance Screen",
+        "text": "Active\nWarnings | 36t\\1: Active Maintenance Item\n\nSwitchbo:\nOpen"
+    },
+    "page_112_Figure_22": {
+        "title": "Maintenance Item Display",
+        "text": "Genset Mode: Ready\nConfiguration: 60 kW, 3 Phase\\\\120/208 V, 60Hz\nContactor\n\nTip: Press [Maint Actions] to dismiss, defer, or\ncomplete this maintenance item.\n\nFaults Previous Next Maint Actions Exit\n\nog oO al \u2018d f&"
+    },
+    "page_113_Figure_23": {
+        "title": "Next Items Display",
+        "text": "Genset Mode: Ready\nConfiguration: 60 kW, 3 Phase)\\\\120/208 V, 60Hz| 11:23:22\n\nContactor\nOpen\nMaintenance} 5001\nItems Next Service Due in XX Hours\n\n[Switchbow Drain Coolant and Flush System\n\nOpen\n\nMode\nTip: Press [Maint Actions] to dismiss, defer, or\ncomplete this maintenance item.\n\nFaults Previous Next Maint Actions Exit\n\n2a o& oo a a."
+    },
+    "page_115_Figure_25": {
+        "title": "Remote PC - Connection",
+        "text": "Vv\" ROK\n\nOY \\ \u00bb .\nOLR)\n\nARAN\nSEXRKNNR\nROKK .\nORR KH\nHXRRAXAINN 3\n\n\u00b0 RK"
+    },
+    "page_116_Figure_26": {
+        "title": "Remote PC Display",
+        "text": "Remote Monitoring Screen 6\nEmergency .\n20\u2014y, Sion Port Status : Active\nWinterization Kit : Not Available\nBatlle Short /:quend/ and Voltage\nCommand Configuration: 30 kw, /3 Pha/e, 120/208 V, 60Hz Engine Status : Running\n: OFF\n12\u00b0) Lenpene | 7\nEmergency Parameter Value /Unit\nStop\net Stopped Genset L1 Current a8. | Aac \"\n18 >_< Genset L2 Current 88 | Aac\nContcion Genset L3 Current 88 | Aac 9\nClosed a es\nBus Voltage L1-1/ 208 | Vac | [Genset Frequency 60.0 | Hz\u21221\n\u2018Switch Box Bus Voltage L2-L3 208 | Vac Bus Frequency 60.0 | Hz\" | \u00a5\nClosed Bus Voltage L3-L1 208 | Vac | [Power 46 | KW \"1\n=e Genset Voltage L1-N 120 | Vac | |Fuel Level 8a | % a\n\u2018ae Cfanset Voltage L2-N 120 | Vac | |Battery Voltage 24.8 | Vde See\nsenset Voltage L3-N 120 | Vac | |Battery Amps 60_| Ade4\nBattle Short Bus Voltage L1-N 120 | Vac | |Oil Pressure 55 | PSl<\u2014\u2014_\u2014\u201413\n- el\nInactive Bus Voltage L: 420 | Vac | |Coolant Temperature 185 | F ee\nBus Vo\\ge L3- 420 | Vac | |Genset Hours 1932.8] Hours 14\n7\n16 15\nLegend\n1. Genset Mode 11. Battery Voltage\n2. Fault 12. Battery Amps\n3. Warning 13. Oil Pressure\n4. Genset Voltage 14. Coolant Temperature\n5. Bus Voltage 15. Line-to-Neutral\n6. Genset Current 16. Line-to-Neutral\n7. Genset Frequency 17. Battle Short\n8. Bus Frequency 18. Emergency Stop\n9. Power 19. Battled Short Command\n10. Fuel Level 20. Emergency Stop"
+    },
+    "page_124_Figure_33": {
+        "title": "Plate, Identification - Model 1070",
+        "text": "US DEPARTMENT OF DEFENSE\nNATO STANDARD OTAN\n\nGENERATOR SET DIESEL ENGINE 60kW 50/60Hz\n\nMODEL [MEP-1070 NSN[6115-01-561-7788 __|\nTM TM 9-6115-753-10 NAVFAC\nTO \u2122\n\nVOLTS | 120/ 208V 3PH |\n\n240/ 416V 3PH\nAMPS [___208, 104 ] PFLos ]\nDRY WT [___3500]LB] LG[_82_[IN] w[_36]IN] HGT[__53]IN\n\nCONTR NO[W15P7T-04-D-A003\nMFD BY [CUMMINS POWER GENERATION\n\n30554-04-21024-9\n\nUS DEPARTMENT OF DEFENSE\nNATO STANDARD OTAN\n\nGENERATOR SET DIESEL ENGINE 60kW 400Hz\n\nMODEL [MEP-1071 NSN[6115-01-561-7895 __|\nTM TM 9-6115-753-10 NAVFAC\nTO \u2122\n\nVOLTS | 120/ 208V 3PH |\n\n240/ 416V 3PH\nAMPS 208, 104\nDRY WT [___3500[LB] LG(_82_[IN] w[__36]IN] HGT 53]IN\n\nCONTR NO[W15P7T-04-D-A003\nMFD BY [CUMMINS POWER GENERATION\n\n] PFLos ]\n\n30554-04-21024-10"
+    },
+    "page_125_Figure_35": {
+        "title": "Label, Lifting and Tie Down - Model 1070/1071",
+        "text": "LIFTING DIAGRAM\n\nCONTROL,\n\n12 FT MIN\nSLING\n\n|\n\n| ASSEMBLY \\\n\n\u2014| 44.1 IN\n\n: Xi LIFTING\n\nAND TIEDOWN\n\nPOINTS\n\nf\n19.6 IN\n\nZN\n\nCG\nr\u2014e\n\n=i\n\nay\n\n17.1 IN\n\nFLATCAR TIEDOWN\n\n3/8\" CABLE\nCOMPLETE LOOPS\nOR 3/8\" CHAIN\n\n(17V) 30554\nA AAT\n\n(1P) MEP\n\n1070\n\n(\n\n30554-04-21078-ZZ"
+    },
+    "page_126_Figure_37": {
+        "title": "Plate, IUID Identification - Model 1071",
+        "text": "(17V) 30554\n\niii\n(1P) MEP 1071\n\nHM\nYY\n\nGENERATOR SET DIESEL ENGINE 60kW 50/60Hz\n\nNSN [6115-01-561-7788\nPART NO. [04-1070\nMFD BY [CUMMINS POWER GENERATION\nCONTRACT NO. |W15P7T-04-D-A003\nDATE MFD {07/01/09\n\nSERIAL NO. [123456789\nINSPECTED BY LJA\\\nDATE INSPECTED [07/02/09\nINSPECTION STAMP\n\n30554-04-21077-XX"
+    },
+    "page_127_Figure_39": {
+        "title": "Name Plate, Identification - Model 1071",
+        "text": "GENERATOR SET DIESEL ENGINE 60kW 400Hz\n\nNSN [6115-01-561-7895\nPART NO. [04-1071\nMFD BY [CUMMINS POWER GENERATION\nCONTRACT NO. |W15P7T-04-D-A003\nDATE MFD {07/01/09\n\nSERIAL NO. [123456789\nINSPECTED BY LJA\\\nDATE INSPECTED [07/02/09\nINSPECTION STAMP\n\nSYSTEM CAPACITY\n\nFUEL TANK LUBRICATING OL T COOLING SYSTEM\n\u2014_|\u2014|\u2014_ BLOCK\n\n11.5 10.5 9\nGALLONS ats. | TS. ars.\n\nNOTE: FOR OPERATION USING JP5 FUEL REFER TO\nAPPLICABLE OPERATING INSTRUCTION MANUAL.\n\n30554-04-21011-5"
+    },
+    "page_128_Figure_41": {
+        "title": "Plate, Set Rating - Model 1070",
+        "text": "GENERATOR SET, DIESEL FUELED\nAMMPS\nMODE | (50/60 HERTZ), SIZE 60 (60 kW)\n\nKW CAPACITY VOLTAGE \u2018CURRENT\n\noutput\nS50EGF | eSDEGF FUEL ADJUST CAPACITY\n000 FT| _ 10000 VOLTAGE | RANGE AMPS\n\nsoo | \u00ab7a Drior2upe | \u2014r20m08 | 197-208 208\n600 | 474 DFI/DF2IJP8 2401416 395-480 104\n500 395 DFOFQUPB r2o208 [190-213 172\n500 500 DFDFAuPa | 240416 | 380426 ee\n\nkW CAPACITY. output | VOLTAGE CURRENT\n1o0dEGF ] 1000EGF FUEL. vourage | ADJUST CAPACITY\nsl 3000 FT RANGE AMPS\n\n#80 0] Ps \u2018aoe | 197-240 166\n780 a0] WPS 240416 | 395-480 8\n200 ao _| P5 \u2018ome | 190213 16\n\n400 400 5 2401816 380426 7\n\n30554-04-21022-9\n\nGENERATOR SET, DIESEL FUELED\nAMMPS\nMODE II (400 HERTZ), SIZE 60 (60 kW)\n\nKW CAPACITY output | VOLTAGE \u2018CURRENT\nQ5DEGF | SDEGF FUEL voutace | 0JUST CAPACITY\n4o00FT_| 10000 FT RANGE AMPS\n\neo | ara DFOFQUPB 20208 _[ 197-229\n600 474 OFI/DF2UPB zao4te | 305-468 104\n\nEW CAPACITY, output | VOLTAGE CURRENT\n\ntoes ] 10008GF voltage | ADJUST CAPACITY\nsl. 3000 FT RANGE AMPS\n\n480 480 120/208, 197-229 166.\n\n480 480 2401816 395-458 EJ\n\n30554-04-21022-10"
+    },
+    "page_129_Figure_43": {
+        "title": "Label, Fuel - Model 1070/1071",
+        "text": "FUEL SUPPLY FUEL WITHDRAWL\nCONNECTION CONNECTION\ne e\n\nDIESEL/JP8/JP5\n30554-04-21236\n\nCONVENIENCE RECEPTACLE\n15 AMPS, 120 VOLTS,\n50/60 Hz\n\nSWITCH BOX CONTROL\nRECEPTACLE\n\n30554-04-21237\n\nCONVENIENCE RECEPTACLE\n15 AMPS, 120 VOLTS,\n400 Hz\n\nSWITCH BOX CONTROL\nRECEPTACLE\n\n30554-04-21237"
+    },
+    "page_130_Figure_46": {
+        "title": "Label, Fuel Diagram - Model 1070/1071",
+        "text": "FUEL SYSTEM DIAGRAM\n\nFUEL FILTER,\n\nWATER SEPARATOR\n\nINJECTORS\n\nINJECTOR\n\nINJECTION\nPUMP\n\nora +<}H}\nrveL rer\nWATER SEPARATOR.\n\nonan <<}\n\nSTRAINER\n\nAUX FUEL\nFILL J\n\nry\n\n\u2018AUX FUEL PUMP\n\nSTRAINER\n\nRETURN LINE\n\nCOOLER\n\nAUX FUEL\n\u2018OUT\n\nFILLER\nASSY\n\nFUEL TANK\n\nFUEL PICKUP\n\nFUEL LEVEL\nSENSOR\n\nFUEL RETURN\n\n30554-04-21017-2"
+    },
+    "page_131_Figure_47": {
+        "title": "Label, Operating Instructions - Model 1070/1071",
+        "text": "OPERATING INSTRUCTIONS\n\nWARNING: A. TO AVOID SHOCK HAZARD SET FRAME MUST BE 4, PARALLEL OPERATION (2 OR MORE LIKE SETS)\nGROUNDED. CONNECT AWG, NO. 6 WIRE OR LARGER\n\nFROM GROUND TERMINAL (GND) TO EARTH GROUND. A. MAKE CONNECTIONS BETWEEN SETS AND LOAD AS DESCRIBED IN TH\nOPERATION MANUAL.\nB. BATTERY NEGATIVE TERMINAL IS CONNECTED TO GROUND.\n\nCONNECT PARALLELING CABLE.\n1. PRESTART CHECKS\n\n\u2018START UNITS NO. 1 AND NO. 2 PER STARTING INSTRUCTIONS.\n\nPUSH THE UNIT-PARALLEL SWITCH ON BOTH SETS.\n8. CHECK FUEL-WATER SEPARATOR, DRAIN WATER IF PRESENT.\n\n8\nc.\nA. CHECK RADIATOR COOLANT, ENGINE LUBE OIL AND FUEL.\nD.\nE\n\nUNITS ARE NOW OPERATING IN PARALLEL.\n2. START\n\n5, REFER TO APPLICABLE TECHNICAL MANUAL FOR ADDITIONAL INFORMATION\nPLACE ENGINE CONTROL SWITCH IN PRIME AND RUN POSITION, ON AINTENANGE AND TROUBLESHOOTING PROCEDURES\nVERIFY SCREEN IS DISPLAYED.\n\nVERIFY PROPER FREQUENCY (50 OR 60 Hz) IS DISPLAYED ON SERVICE INSTRUCTIONS\n\n\u2018THE SCREEN AN ADJUST IF NECESSARY.\n\noO FUEL\nCRANK THE ENGINE BY TURNING THE MASTER SWITCH TO THE\nSTART POSION. AMBIENT LUBRICATING \"AMBIENT\nTEMPERATURE lL TEMPERATURE\nNOTE:\n\nLow TEMPERATURES THERE My BE APAUSE STARTING wsrroweste [Mere 086] [-soreto waste\n\u2018tne Conn AUToumToaLtvencicee me crmnoaves, LT *ESF | en00 so |\n\n. op | MiL-PRF-21046| [opto siggep | MAS25S7\n[ADJUST VOLTAGE TO PROPER VALUE. SISFTOSSF | OeMDO- 10 20\u00b0F TO +135\u00b0F | \u201cGR2D\n\nUNDER NORMAL CONDITIONS RUN ENGINE AT NO LOAD FOR 50\u00b0F TO+40\u00b0F | MIL-PRF- 461670] |-so*F TO +135\u00a2F | AAS2SS7\n5 MINUTES FOR WARM UP. IF REQUIRED, LOAD CAN BE GR4-D\n\u2018APPLIED IMMEDIATELY.\n\nLANT.\n\n(CLOSE THE AC CIRCUIT INTERRUPTER BY PRESSING THE AC \u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nCIRCUIT INTERRUPTER SWITCH. \u201cAMBIENT RADIATOR\nTEMPERATURE COOLANT\n\n3. STOPPING THE SET 50\u00b0F TO +135\u00b0F AA-52624\n\nREMOVE LOAD BY PRESSING THE AC CIRCUIT INTERRUPTER\nSWITCH.\n\nWATER-WITH\n\n+40\u00b0F TO +135\u00b0F | Miia s3009\n\nALLOW ENGINE TO OPERATE FOR APPROXIMATELY 5 MINUTES\n\u2018AT NO LOAD.\n\n\u2018STOP UNIT BY PLACING MASTER SWITCH IN OFF POSITION,\n\n30554-04-21026\n\nFIRST FUEL\nFILTER\n\n30554-04-21016"
+    },
+    "page_132_Figure_49": {
+        "title": "Label, Diagram, Wiring - Model 1070/1071",
+        "text": "areal |?\n\n04-21384\n\n50/60 HZ\n\n30554:\n\njl 7\n\nd iets\n\naunieeite\nwt\n\ndillbae\n\ngil st\n\ngegage.\nB Sele esans\n\n60 KW GENSET\n\nA BBD Wl et ve Bick Pi WS Sov Url GOs Ri st\n\n4 Ge PS ty ee oc eentoes comer\nJaa'SS SR oe Una mov oe Toa fa) OM CRO,\n\nTae ws ROL Oe\n2.10 MICES ROCETD BY 8 6 MO D AAC FER KOMEN OY.\n\nx\n\n7 COMMECTON BONN BETH THE H TORR M0 HE ORORO (OO)\n\nit di\n\nRe cceSsobaet:\n\nHi '\nHa\n\nsanceduantad \u00a2"
+    },
+    "page_133_Figure_50": {
+        "title": "Plate, Battery Connection - Model 1070/1071",
+        "text": "BATTERY ARRANGEMENT & CONNECTIONS\n\nPOS, ~\nSEE NOTES 3&5. o TO STARTER\n\\ <OF\n\nNEG SLAVE\nRECEPTACLE\n\nNOTE: POSITIVE LEADS HAVE RED SLEEVE\n\nCAUTION\n\n1. ALWAYS POSITION AND CONNECT BATTERIES AS SHOWN.\n\n2. WHEN REMOVING BATTERIES, DISCONNECT NEGATIVE LEAD FIRST.\n\n3. DO NOT DISCONNECT BATTERY INTERCONNECTION CABLE BEFORE STEP 2.\n4. CONNECT BATTERY INTERCONNECTION CABLE BEFORE STEP 4.\n\n5. WHEN INSTALLING BATTERIES, CONNECT NEGATIVE LEAD LAST.\n\nCAUTION\nTO AVOID DAMAGE\nTO THE LOAD\n\nFIRST CHECK VOLTAGE,\nFREQUENCY AND PHASE\nREQUIREMENTS OF THE\nUSING EQUIPMENT.\n\n30554-88-20110"
+    },
+    "page_134_Figure_52": {
+        "title": "Label, Grounding Stud - Model 1070/1071",
+        "text": "WARNING\n\nDO NOT OPERATE THE GENERATOR SET UNTIL IT\nHAS BEEN CONNECTED TO A SUITABLE GROUND.\nSEE OPERATOR'S MANUAL.\n\nCONNECT AWG. NO. 6 WIRE OR LARGER FROM\nGROUND TERMINAL (GND) TO EARTH GROUND.\n\nTHE CONNECTION SHOWN BETWEEN THE N TERMINAL AND\nTHE GROUND (GND) TERMINAL IS A REMOVABLE LINK.\n\nMODE\n\nFOR OUTPUT OF:\n\nCONNECT LOAD LINES TO:\n\n0\n\n240/416V 3PH\n\nL1, L2, L3, N\n\n1\n\n120/208V 3PH\n\nL1, L2, L3, N\n\n30554-04-21475-01"
+    },
+    "page_135_Figure_53": {
+        "title": "Label, Schematic, Wiring - Model 1070/1071",
+        "text": "!\ni\n\naypngeg99 ay\n\ni\ni\n\ngonaes\nae\n\nans\ni\n1\n\naa\ni\n\na\n\ntaag\naye\n\ngegagepasee=\nsn\n8\ni\n:\nsy\nHH\n\n60 KW GENSET\n50/60 HZ\n\n30554-04-21385\n\nSLAVE RECEPTACLE 24 VDC\n\n30564-04-21021"
+    },
+    "page_136_Figure_55": {
+        "title": "Label, Dead Crank - Model 1070/1071",
+        "text": "DEAD CRANK SWITCH\nCRANK\n\nOFF\n\nNORMAL\n\n30554-88-21776"
+    },
+    "page_141_Figure_1": {
+        "title": "Storage Box and Cable - Location",
+        "text": "7\nSHORT\n\nDisplay\nScreen\n\nfo)\n\n)"
+    },
+    "page_144_Figure_4": {
+        "title": "Main Display Screen - Parallel Mode",
+        "text": "99,999.9\n\nAt Genset Voltage L-N Bus Voltage L-N Genset Current\nL-N L2-N L3-N L1-N L2-NL3-N ht 2 bs\nParallel | 160A A< A | 160\nl< |}< ||<\nBattleshort}\n\n0 ol\n208 210 208 Vac] 120 120 119 Vac|\n\nInactive\n\nL-N<LL Adjustments About Maintenance\n\nOo .\n\n3\n\na Oo Q\noe a"
+    },
+    "page_149_Figure_5": {
+        "title": "Parallel Adjustment Screen, A",
+        "text": "Genset Mode: Ru\\iing\nConfiguration: 60 \\W, 3 Phase, 120/208 V, 60Hz\n\n2008-09-30\n23:59:59\n\nContactor\nOpen\n\n\u2018Switchbox\nOpen\n\nMode |) Total KW Select Tip:\nUnit 0.0 Press [Previous] or [Next]\n\u2014 to move between items,\nBattleshor| Total KVAR| [Select] to select highlighted item,\nInactive 0.0 or [Exit] to return to main screen.\nGenset Adj __~ Previous Next > Select Exit\n\ngo ou Qe\n\nOF\n\n2"
+    },
+    "page_151_Figure_6": {
+        "title": "Parallel Adjustment Screen, B",
+        "text": "Genset Mode:\\Running\n\nOffset | Gains | Offsets\n\n+0.00 | Reset | Reset\n\nTotal KW\n0.0\n\nAdjust Tip: Press [+] or [-] to change\ncurrent digit, [Previous] or [Next] to move\nbetween digits, ([Next], ...) [Accept] to\n\nTotal KVAR | accept new value, ([Previous], ...) [Cancel],\nBattleshor 0.0 to cancel changes and revert to old value,\nInactive or [Exit] to return to main screen.\nCancel Next > Exit\n\n(e)\n\noe a ao lo\n\n6 5"
+    },
+    "page_153_Figure_7": {
+        "title": "Parallel Adjustment Screen, C",
+        "text": "99,999.9\nHours\nGenset Mode: Running 2008-09-30!\nConfiguration: 60 kW, 3 Phase, 120/208 V, 60Hz 23:59:59\n\n(\nReset | Reset!\nGains | Offsets\n\nReset | Reset\n\nTotal KW Adjust Tip: Press [+] or [-] to change\n0.0 current digit, [Previous] or [Next] to move\nbetween digits, ([Next], ...) [Accept] to\nTotal KVAR | accept new value, ([Previous], ...) [Cancel],\n0.0 to cancel changes and revert to old value,\nor [Exit] to return to main screen.\n\nNext > Exit\n\noo"
+    },
+    "page_154_Figure_8": {
+        "title": "Parallel Adjustment Screen, D",
+        "text": "3\n\n2\nGenset Vode: Running\n\u2018eXion: 60 kW, 3 Phase/ 120/208/v, 60Hz\nKVAR | KVAR\ni Gain Offset\n\n99,999.9\nHours\n\n2008-09-30\n23:59:59\n\nGains | Offsets\n\n1.00 +0.00 Reset | Reset\n\nAdjust Tip: Press [+] or [-] to change\nTotal KW current digit, [Previous] or [Next] to move\nbetween digits, ([Next], ...) [Accept] to\nTotal KVAR | accept new value, ([Previous], ...) [Cancel],\nto cancel changes and revert to old value,\nor [Exit] to return to main screen.\n\n= Previous\n\nExit\n\n+ Accept\n\n O\n\nome\n\neN\n\n4"
+    },
+    "page_156_Figure_9": {
+        "title": "Parallel Adjustment Screen, E",
+        "text": "99,999.9\nHours\n\n2008-09-30\n23:59:59\n\nGenset Mode: Running\nConfiguration: 60 kW, 3 Phase, 120/208 V, 60Hz\n\nContactor\nOpen\n\nSwitchbox\nOpen\n\nSelect Tip:\nPress [Previous] or [Next]\nto move between items,\n[Select] to select highlighted item,\nor [Exit] to return to main screen.\n\nMode\nUnit\n\nTotal KW\n0.0\n\nTotal KVAR\n0.0\n\nBattleshort]\nInactive\n\nGenset Adj <Previous Next > Select Exit\n\nooo oo\n\nfe)\n\n2"
+    },
+    "page_157_Figure_10": {
+        "title": "Parallel Adjustment Screen, F",
+        "text": "99,999.9\nHours\n\n2008-09-30\n23:59:59\n\nSwitchbox\nOpen\n\nMode\nUnit\n\nBattleshort]\nInactive\n\nTotal KVAR\n\nTotal KW\n0.0\n\nAdjust Tip:\nAccept] to perform action,\n\n0.0\n\nCancel\n\no\n\n[Q"
+    },
+    "page_158_Figure_11": {
+        "title": "Soft Unload Key",
+        "text": "'Genset Mode: Running\nConfiguration: 60 kW, 3Phase, 120 V, 60Hz\n\n99,999.9\nHours\n\n2008-09-30)\n23:59:59\n\nContactor\nOpen\n\nGenset Voltage L-N Bus Voltage L-L\nLI-NL2-N L3-N LI-NL2-N L3-N\n\nl< Al< |2f4 Aa Ae\n\ndl dl\n206209 210 Vac| 209 210 208 Vac\n\nCoolant\n\n\u2018Genset Current\nuo i213\n\nol< =< I<\n404141 Aac\n\nUnload Adjustments Aux Disable Maintenance"
+    },
+    "page_159_Figure_12": {
+        "title": "DCS Panel, Remove From Parallel",
+        "text": "Display\nScreen\n\nPUSH TO STOP"
+    },
+    "page_165_Figure_1": {
+        "title": "DCS Panel",
+        "text": "fe a)\n\nie} \u00b0\nPPS\nCo}} Ko) fe)\n| | aw,"
+    },
+    "page_171_Figure_2": {
+        "title": "DCS Panel",
+        "text": "fe a)\n\nie} \u00b0\nPPS\nCo}} Ko) fe)\n| | aw,"
+    },
+    "page_217_Figure_4": {
+        "title": "Left-Side View",
+        "text": "wd)\nUe\n\n~"
+    },
+    "page_269_Figure_1": {
+        "title": "Basic Issue Items (BII) (Sheet 2 of 2)",
+        "text": "qecHNICAL MANUAL\n\nOPERATOR'S MANUAL\n\nFOR\nGENERATOR SET. \u2018KID MOUNTED\njoKW ADVANCED mepiuM MOBILE pOWER SOURCES\n(AMMPS)\n\nep-1070 50/60 H2\n(NSN: 6115-07 eaar.7760){ (ec: N/A)\n\nmep-1071 400\n(NSN: 5115-01-561-7895) J eIc: NIA)\n\nMENTS OF TH\n\u2018AND TitENTS Sans\n\nEAN javonce,N NA\\\n TARINE ASORPS\npon inonn4s0?\n\nq S ECEMBER 2010"
+    }
+}

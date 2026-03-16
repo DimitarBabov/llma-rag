@@ -1,30 +1,15 @@
-# Ignore all PNG files anywhere in the project
-*.png
-
-# Ignore image directories
-Figures/
-static/
-
-# Ignore PDF files
-*.pdf
-*:Zone.Identifier
-
-# Ignore Mistral model files
-mistral-7b-instruct*
+# Model files (too large for GitHub -- share separately)
 *.gguf
 
-# Virtual environment
+# WSL Zone.Identifier files
+*:Zone.Identifier
+
+# Virtual environments
 rag2/
 venv/
 env/
 *.env
 *.venv
-
-# Generated data
-embeddings/
-figures.json
-figure_texts.json
-training_manual_text.txt
 
 # Python
 __pycache__/
@@ -42,43 +27,29 @@ dist/
 .idea/
 *.swp
 *.swo
+*.iml
+*.ipr
+*.iws
 
 # OS
 .DS_Store
 Thumbs.db
 
-# ========================
-# Standard Python .gitignore
-# ========================
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Logs & Debugging files
+# Logs
 logs/
 *.log
 *.out
 *.err
 
-# MacOS & Linux system files
-.DS_Store
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Pip, Poetry, and dependency management
+# Pip / Poetry
 pip-log.txt
 pip-delete-this-directory.txt
 poetry.lock
 
-# Ignore coverage reports
+# Coverage
 .coverage
 coverage.xml
 *.cover
@@ -87,16 +58,9 @@ coverage.xml
 nosetests.xml
 test-results.xml
 
-# Ignore PyInstaller bundled files
+# PyInstaller
 *.spec
 
-# Ignore local database & SQLite files
+# Database
 *.db
 *.sqlite3
-
-# Ignore PyCharm project settings
-*.iml
-*.ipr
-*.iws
-
-TM 9-6115-753-10.pdf:Zone.Identifiertraining_manual_text.txt
